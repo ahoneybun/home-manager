@@ -66,7 +66,7 @@ $ nix-channel --add https://github.com/nix-community/home-manager/archive/releas
 $ nix-channel --update
 ----
 
-3. Run the Home Manager installation command and create the first Home
+3. Reboot the system then run the Home Manager installation command and create the first Home
 Manager generation:
 +
 [source,console]
